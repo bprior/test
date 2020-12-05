@@ -2,8 +2,9 @@
    - created the repository
    - ==git== clone
    - created this file
+   - commit this file
 
 # To do
-   - commit this file
    - push it to my remote repository
+   - commit this file
 
